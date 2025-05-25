@@ -1,5 +1,5 @@
 # Lista-1-POO
-## Resolição da Lista.
+## Resolução da Lista.
  
 [1° Questao](src/main/java/br/edu/ufam/Questao1.md)
 Responda (cada 0,5 ponto, total 1,0 ponto):
